@@ -1,0 +1,32 @@
+question,type,expected_codes,note
+Do you have TS-4412 in size 9?,exact code,TS-4412,
+Tell me about HK-3320,exact code,HK-3320,
+Is RN-2250 any good?,exact code,RN-2250,
+Price of FM-7050,exact code,FM-7050,
+TrailRunner Lite,exact name,TS-4414,
+Show me the Monsoon Trekker,exact name,HK-3340,
+"Waterproof trail shoes under Rs 5,000, size 9",filter,TS-4412|TS-4527,
+"Hiking boots under Rs 6,000",filter,HK-3340|HK-3370|HK-3305,
+"Women's walking shoes under Rs 3,500",filter,WK-5229|WK-5021,
+"Sandals under Rs 1,000",filter,SD-1190|SD-1239|SD-1160|SD-1100|SD-1207,
+Waterproof formal shoes for men,filter,FM-7050,
+Road running shoes in size 12,filter,RN-2280|RN-2513,
+Kids shoes for trail running,filter,TS-4412K,
+"Running shoes above Rs 10,000",filter,RN-2270,
+Something for the rain?,vague,SD-1239|SD-1207|SD-1180|SD-1287|SD-1150|TS-4412K|SD-1225|SD-1170|WK-5198|WK-5040|GY-8107|HK-3442|TS-4441|TS-4412|HK-3411|RN-2250|HK-3340|HK-3480|HK-3498|TS-4527|GY-8120|RN-2295|TS-4430|HK-3370|HK-3305|FM-7050|HK-3516|HK-3509|RN-2513|HK-3310|HK-3429|TS-4586|TS-4549|HK-3456|TS-4421|TS-4648|HK-3320|TS-4460|HK-3350,
+comfy shoes for my office,vague,WK-5139|WK-5126|WK-5249|WK-5020|WK-5021|WK-5198|FM-7040|FM-7030|FM-7020|WK-5164|WK-5236|FM-7010|FM-7050,
+shoes for my dad who can't tie laces,vague,WK-5050,
+something for snow treks,vague,HK-3350,
+shoes that are safe for night running,vague,RN-2462|RN-2290|RN-2444|RN-2295|RN-2488|TS-4460,
+Which shoes do reviewers say are good for wide feet?,reviews,RN-2310|WK-5010|WK-5030|WK-5050|WK-5113|WK-5126|WK-5178|WK-5185|WK-5249,
+Which shoes did reviewers say kept feet dry in the monsoon?,reviews,TS-4412|HK-3305|RN-2250|TS-4430|TS-4460|RN-2295|HK-3310|HK-3320|HK-3340|HK-3370|WK-5040|FM-7050|SD-1150|TS-4527|HK-3429|HK-3442|SD-1239|HK-3509|HK-3516|TS-4648|RN-2513,
+Which shoes have complaints about the sole coming off or wearing out?,reviews,RN-2250|RN-2300|WK-5060|WK-5113|RN-2411|WK-5126|RN-2444|WK-5164|RN-2488|WK-5178|WK-5185|WK-5229|RN-2513,
+Which shoes run small according to reviews?,reviews,TS-4471|HK-3370|FM-7030|TS-4507|TS-4520|SN-6114|SN-6127|TS-4538|TS-4549|SN-6138|SN-6156|SN-6187|SN-6220|SN-6233|TS-4637|TS-4661|TS-4681,
+Compare TrailRunner X and Summit Hiker. Which has better reviews?,multi-part,TS-4412|HK-3305,
+Compare SpeedLine and SpeedLine Pro,multi-part,RN-2260|RN-2270,
+What is the cheapest waterproof hiking boot?,table (SQL),HK-3340,
+Which trail running shoe has the highest rating?,table (SQL),TS-4613,rating 5.0
+"How many sandals do you have under Rs 1,500?",table (SQL),SD-1190|SD-1239|SD-1160|SD-1100|SD-1207|SD-1180|SD-1218|SD-1287,answer: 8
+Cheapest walking shoe that reviewers call comfortable,table + reviews,WK-5139,Ridge Walk Rs 1899
+Do you sell laptop bags?,not in catalogue,,should say it is not available
+Do you have football boots?,not in catalogue,,should say it is not available

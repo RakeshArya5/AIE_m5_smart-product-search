@@ -1,0 +1,393 @@
+review_id,code,reviewer,rating,text
+R0001,TS-4412,Arjun,5,Stayed dry all through the Mumbai monsoon.
+R0002,TS-4412,Rohit,4,"Very light, great for long days."
+R0003,TS-4412,Priya,5,"Never slipped, even on muddy trails."
+R0004,TS-4421,Imran,4,Walked through puddles and my socks stayed dry.
+R0005,TS-4421,Imran,4,"Super soft cushioning, my knees feel better."
+R0006,TS-4421,Kavya,4,Feels fast and springy on race day.
+R0007,TS-4421,Neha,5,Great grip on wet rocks.
+R0008,HK-3305,Sneha,5,Solid ankle support on rocky paths.
+R0009,HK-3305,Sneha,2,"Heavy, my legs got tired."
+R0010,HK-3305,Lakshmi,4,Stayed dry all through the Mumbai monsoon.
+R0011,HK-3305,Rohit,4,Great grip on wet rocks.
+R0012,RN-2210,Rohit,4,"Super soft cushioning, my knees feel better."
+R0013,RN-2210,Lakshmi,5,Feet stay cool even in the Chennai heat.
+R0014,RN-2210,Sanjay,5,Super comfortable for long walks.
+R0015,RN-2250,Arjun,4,Stayed dry all through the Mumbai monsoon.
+R0016,RN-2250,Joseph,2,The sole came off after two months.
+R0017,RN-2250,Anita,3,"Okay in light rain, but my socks got wet in heavy rain."
+R0018,RN-2250,Arjun,4,Quick to dry after the river crossing.
+R0019,SD-1100,Karan,4,Cheap and fine for the beach.
+R0020,SD-1100,Rohit,5,Good value for the price.
+R0021,SD-1100,Rohit,2,Straps rub and hurt my feet.
+R0022,TS-4414,Vikram,5,Feet stay cool even in the Chennai heat.
+R0023,TS-4414,Joseph,4,"Very light, great for long days."
+R0024,TS-4414,Karan,3,"Arrived quickly, fits as expected."
+R0025,TS-4430,Kavya,5,Great grip on wet rocks.
+R0026,TS-4430,Vikram,4,Stayed dry all through the Mumbai monsoon.
+R0027,TS-4430,Kavya,4,Nothing else grips this well in deep mud.
+R0028,TS-4441,Sanjay,5,"Very light, great for long days."
+R0029,TS-4441,Neha,5,"Never slipped, even on muddy trails."
+R0030,TS-4441,Harpreet,4,Walked through puddles and my socks stayed dry.
+R0031,TS-4450,Arjun,4,Great grip on wet rocks.
+R0032,TS-4450,Imran,4,"Lots of cushioning, perfect for long runs."
+R0033,TS-4450,Fatima,5,Feet stay cool even in the Chennai heat.
+R0034,TS-4460,Vikram,5,"Never slipped, even on muddy trails."
+R0035,TS-4460,Arjun,4,"Lots of cushioning, perfect for long runs."
+R0036,TS-4460,Neha,5,Stayed dry all through the Mumbai monsoon.
+R0037,TS-4460,Sanjay,5,The reflective strips are really bright at night.
+R0038,TS-4471,Neha,5,"Never slipped, even on muddy trails."
+R0039,TS-4471,Vikram,1,"Tight fit, I had to return for a bigger size."
+R0040,TS-4471,Pooja,4,"Very light, great for long days."
+R0041,TS-4412K,Kavya,5,Great grip on wet rocks.
+R0042,TS-4412K,Rahul,4,Walked through puddles and my socks stayed dry.
+R0043,TS-4412K,Meera,5,So light I forget I'm wearing them.
+R0044,RN-2260,Arjun,5,"Fast and responsive, I love racing in these."
+R0045,RN-2260,Rohit,4,"Very breathable, no sweaty feet."
+R0046,RN-2260,Joseph,4,"Very light, great for long days."
+R0047,RN-2270,Imran,4,Great for tempo runs and races.
+R0048,RN-2270,Rohit,5,So light I forget I'm wearing them.
+R0049,RN-2270,Fatima,5,Knocked two minutes off my 10K time.
+R0050,RN-2280,Pooja,5,"Comfortable from the very first day, no break-in needed."
+R0051,RN-2280,Meera,5,"Lots of cushioning, perfect for long runs."
+R0052,RN-2280,Harpreet,5,Still like new after a year of use.
+R0053,RN-2281,Rohit,5,"Very durable, lasted over 1,000 km."
+R0054,RN-2281,Lakshmi,5,"Comfortable from the very first day, no break-in needed."
+R0055,RN-2281,Lakshmi,4,"Super soft cushioning, my knees feel better."
+R0056,RN-2290,Kavya,4,The reflective strips are really bright at night.
+R0057,RN-2290,Neha,5,"Lots of cushioning, perfect for long runs."
+R0058,RN-2290,Meera,5,"Very breathable, no sweaty feet."
+R0059,RN-2295,Pooja,5,Stayed dry all through the Mumbai monsoon.
+R0060,RN-2295,Pooja,5,Cars see me easily on my night runs.
+R0061,RN-2295,Sneha,5,Great grip on wet rocks.
+R0062,RN-2300,Priya,2,The sole came off after two months.
+R0063,RN-2300,Sneha,5,So light I forget I'm wearing them.
+R0064,RN-2300,Sanjay,4,Cheap and does the job.
+R0065,RN-2310,Neha,5,"Comfortable from the very first day, no break-in needed."
+R0066,RN-2310,Joseph,4,"Super soft cushioning, my knees feel better."
+R0067,RN-2310,Pooja,5,"Roomy toe box, perfect for wide feet."
+R0068,HK-3310,Sanjay,4,My ankles felt safe on steep climbs.
+R0069,HK-3310,Vikram,5,Stayed dry all through the Mumbai monsoon.
+R0070,HK-3310,Vikram,5,"Never slipped, even on muddy trails."
+R0071,HK-3320,Lakshmi,5,Stayed dry all through the Mumbai monsoon.
+R0072,HK-3320,Arjun,5,"Very durable, lasted over 1,000 km."
+R0073,HK-3320,Arjun,4,"Never slipped, even on muddy trails."
+R0074,HK-3320,Arjun,4,Solid ankle support on rocky paths.
+R0075,HK-3320,Anita,2,A bit heavy for long days.
+R0076,HK-3330,Kavya,4,"Never slipped, even on muddy trails."
+R0077,HK-3330,Divya,4,"Very light, great for long days."
+R0078,HK-3330,Priya,5,Feet stay cool even in the Chennai heat.
+R0079,HK-3340,Meera,5,"Never slipped, even on muddy trails."
+R0080,HK-3340,Pooja,5,Quick to dry after the river crossing.
+R0081,HK-3340,Imran,4,Stayed dry all through the Mumbai monsoon.
+R0082,HK-3340,Vikram,5,Solid ankle support on rocky paths.
+R0083,HK-3350,Harpreet,4,Walked through puddles and my socks stayed dry.
+R0084,HK-3350,Amit,5,Great grip on wet rocks.
+R0085,HK-3350,Karan,5,Solid ankle support on rocky paths.
+R0086,HK-3350,Meera,5,Warm and cosy on a winter trek.
+R0087,HK-3350,Harpreet,4,Still like new after a year of use.
+R0088,HK-3360,Sneha,5,"Never slipped, even on muddy trails."
+R0089,HK-3360,Anita,4,So light I forget I'm wearing them.
+R0090,HK-3360,Rohit,4,"Comfortable from the very first day, no break-in needed."
+R0091,HK-3370,Neha,5,"Never slipped, even on muddy trails."
+R0092,HK-3370,Vikram,1,"Tight fit, I had to return for a bigger size."
+R0093,HK-3370,Kavya,4,My ankles felt safe on steep climbs.
+R0094,HK-3370,Anita,5,Stayed dry all through the Mumbai monsoon.
+R0095,WK-5010,Joseph,5,Finally a shoe that fits my wide feet.
+R0096,WK-5010,Vikram,5,"Comfortable from the very first day, no break-in needed."
+R0097,WK-5010,Kavya,4,"Super soft cushioning, my knees feel better."
+R0098,WK-5020,Harpreet,4,"Super soft cushioning, my knees feel better."
+R0099,WK-5020,Joseph,5,"Comfortable from the very first day, no break-in needed."
+R0100,WK-5020,Neha,5,I wear them to the office every day.
+R0101,WK-5021,Rahul,5,I wear them to the office every day.
+R0102,WK-5021,Rohit,4,"Lots of cushioning, perfect for long runs."
+R0103,WK-5021,Imran,4,Super comfortable for long walks.
+R0104,WK-5030,Imran,5,"Roomy toe box, perfect for wide feet."
+R0105,WK-5030,Harpreet,4,"Super soft cushioning, my knees feel better."
+R0106,WK-5030,Sanjay,5,"Very breathable, no sweaty feet."
+R0107,WK-5030,Divya,4,Super comfortable for long walks.
+R0108,WK-5040,Amit,4,"Never slipped, even on muddy trails."
+R0109,WK-5040,Joseph,5,Stayed dry all through the Mumbai monsoon.
+R0110,WK-5040,Amit,5,Super comfortable for long walks.
+R0111,WK-5050,Harpreet,4,"Roomy toe box, perfect for wide feet."
+R0112,WK-5050,Priya,5,Velcro makes them easy for my father to wear.
+R0113,WK-5050,Rahul,5,Super comfortable for long walks.
+R0114,WK-5060,Lakshmi,1,The sole came off after two months.
+R0115,WK-5060,Meera,4,Cheap and does the job.
+R0116,WK-5060,Karan,3,Okay for the price.
+R0117,SN-6010,Joseph,5,Still like new after a year of use.
+R0118,SN-6010,Divya,4,Lots of compliments on the style.
+R0119,SN-6010,Arjun,3,Okay for the price.
+R0120,SN-6020,Lakshmi,4,Looks great with jeans.
+R0121,SN-6020,Neha,4,My ankles felt safe on steep climbs.
+R0122,SN-6020,Priya,3,Okay for the price.
+R0123,SN-6030,Imran,4,So light I forget I'm wearing them.
+R0124,SN-6030,Kavya,5,Good value for the price.
+R0125,SN-6030,Amit,4,Lots of compliments on the style.
+R0126,SN-6040,Priya,5,Looks great with jeans.
+R0127,SN-6040,Rahul,4,"Super soft cushioning, my knees feel better."
+R0128,SN-6040,Imran,3,"Arrived quickly, fits as expected."
+R0129,SN-6050,Harpreet,4,Lots of compliments on the style.
+R0130,SN-6050,Sneha,5,Super comfortable for long walks.
+R0131,SN-6050,Anita,5,"Very light, great for long days."
+R0132,FM-7010,Vikram,5,Good quality leather.
+R0133,FM-7010,Vikram,5,I wear them to the office every day.
+R0134,FM-7010,Joseph,5,Lots of compliments on the style.
+R0135,FM-7020,Sanjay,5,Good quality leather.
+R0136,FM-7020,Vikram,5,"Comfortable from the very first day, no break-in needed."
+R0137,FM-7020,Neha,4,I wear them to the office every day.
+R0138,FM-7030,Anita,5,I wear them to the office every day.
+R0139,FM-7030,Anita,2,"Runs small, order one size up."
+R0140,FM-7030,Sanjay,5,The leather looks premium.
+R0141,FM-7040,Sanjay,5,Looks smart enough for the office.
+R0142,FM-7040,Rahul,1,Straps rub and hurt my feet.
+R0143,FM-7040,Rohit,4,Looks great with jeans.
+R0144,FM-7050,Amit,4,Looks smart enough for the office.
+R0145,FM-7050,Joseph,5,Stayed dry all through the Mumbai monsoon.
+R0146,FM-7050,Amit,5,The leather looks premium.
+R0147,SD-1150,Divya,5,Great grip on wet rocks.
+R0148,SD-1150,Rohit,5,Stayed dry all through the Mumbai monsoon.
+R0149,SD-1150,Neha,5,Dries in an hour after getting wet.
+R0150,SD-1160,Sneha,4,Cheap and does the job.
+R0151,SD-1160,Priya,4,Super comfortable for long walks.
+R0152,SD-1160,Anita,3,Decent shoe overall.
+R0153,SD-1170,Rahul,5,Quick to dry after the river crossing.
+R0154,SD-1170,Sneha,5,Great grip on wet rocks.
+R0155,SD-1170,Arjun,5,"Very durable, lasted over 1,000 km."
+R0156,SD-1170,Harpreet,4,Walked through puddles and my socks stayed dry.
+R0157,SD-1180,Sanjay,4,Dries in an hour after getting wet.
+R0158,SD-1180,Divya,5,Walked through puddles and my socks stayed dry.
+R0159,SD-1180,Meera,5,"Comfortable from the very first day, no break-in needed."
+R0160,SD-1190,Rahul,5,Good value for the price.
+R0161,SD-1190,Karan,4,"Comfortable from the very first day, no break-in needed."
+R0162,SD-1190,Pooja,5,"Lots of cushioning, perfect for long runs."
+R0163,GY-8010,Divya,5,Feet stay cool even in the Chennai heat.
+R0164,GY-8010,Rohit,4,Very stable for squats and deadlifts.
+R0165,GY-8010,Neha,3,Okay for the price.
+R0166,GY-8020,Fatima,4,Still like new after a year of use.
+R0167,GY-8020,Joseph,4,Very stable for squats and deadlifts.
+R0168,GY-8020,Amit,5,"Never slipped, even on muddy trails."
+R0169,GY-8030,Lakshmi,5,Feet stay cool even in the Chennai heat.
+R0170,GY-8030,Sanjay,5,Super comfortable for long walks.
+R0171,GY-8030,Lakshmi,5,So light I forget I'm wearing them.
+R0172,GY-8040,Harpreet,4,"Very light, great for long days."
+R0173,GY-8040,Kavya,5,"Never slipped, even on muddy trails."
+R0174,GY-8040,Amit,4,Feels stable during heavy gym sessions.
+R0175,GY-8050,Pooja,4,Still like new after a year of use.
+R0176,GY-8050,Rohit,5,Great grip on wet rocks.
+R0177,GY-8050,Neha,2,"Heavy, my legs got tired."
+R0178,SD-1207,Sneha,5,Walked through puddles and my socks stayed dry.
+R0179,SD-1207,Divya,4,Dries in an hour after getting wet.
+R0180,SD-1207,Meera,5,Super comfortable for long walks.
+R0181,SD-1207,Arjun,4,"Super soft cushioning, my knees feel better."
+R0182,TS-4507,Neha,4,Nothing else grips this well in deep mud.
+R0183,TS-4507,Sneha,5,So light I forget I'm wearing them.
+R0184,TS-4507,Kavya,2,"Tight fit, I had to return for a bigger size."
+R0185,WK-5113,Rohit,4,"Roomy toe box, perfect for wide feet."
+R0186,WK-5113,Kavya,2,The sole came off after two months.
+R0187,WK-5113,Kavya,5,"Very breathable, no sweaty feet."
+R0188,RN-2411,Kavya,1,The sole came off after two months.
+R0189,RN-2411,Lakshmi,5,"Very breathable, no sweaty feet."
+R0190,RN-2411,Joseph,4,Super comfortable for long walks.
+R0191,SD-1218,Vikram,1,Straps rub and hurt my feet.
+R0192,SD-1218,Neha,5,Dries in an hour after getting wet.
+R0193,SD-1218,Anita,5,Super comfortable for long walks.
+R0194,RN-2424,Rohit,4,Feet stay cool even in the Chennai heat.
+R0195,RN-2424,Pooja,4,"Very light, great for long days."
+R0196,RN-2424,Sanjay,5,"Super soft cushioning, my knees feel better."
+R0197,HK-3411,Neha,4,"Never slipped, even on muddy trails."
+R0198,HK-3411,Anita,4,"Very breathable, no sweaty feet."
+R0199,HK-3411,Lakshmi,5,Walked through puddles and my socks stayed dry.
+R0200,HK-3411,Sneha,4,"Comfortable from the very first day, no break-in needed."
+R0201,SD-1225,Sanjay,5,Walked through puddles and my socks stayed dry.
+R0202,SD-1225,Fatima,5,"Lots of cushioning, perfect for long runs."
+R0203,SD-1225,Amit,5,Dries in an hour after getting wet.
+R0204,SD-1225,Priya,4,Cheap and does the job.
+R0205,RN-2431,Sneha,4,Still like new after a year of use.
+R0206,RN-2431,Sneha,5,"Very breathable, no sweaty feet."
+R0207,RN-2431,Anita,5,"Comfortable from the very first day, no break-in needed."
+R0208,WK-5126,Arjun,5,Looks smart enough for the office.
+R0209,WK-5126,Harpreet,5,Finally a shoe that fits my wide feet.
+R0210,WK-5126,Arjun,1,Sole wore out quickly.
+R0211,WK-5139,Kavya,4,I wear them to the office every day.
+R0212,WK-5139,Karan,5,"Very breathable, no sweaty feet."
+R0213,WK-5139,Joseph,5,Super comfortable for long walks.
+R0214,RN-2444,Pooja,5,Cars see me easily on my night runs.
+R0215,RN-2444,Fatima,2,Sole wore out quickly.
+R0216,RN-2444,Fatima,4,"Comfortable from the very first day, no break-in needed."
+R0217,SN-6107,Amit,4,Lots of compliments on the style.
+R0218,SN-6107,Joseph,4,So light I forget I'm wearing them.
+R0219,SN-6107,Vikram,4,"Very durable, lasted over 1,000 km."
+R0220,TS-4520,Sanjay,4,Still like new after a year of use.
+R0221,TS-4520,Anita,2,"Runs small, order one size up."
+R0222,TS-4520,Karan,5,"Lots of cushioning, perfect for long runs."
+R0223,SN-6114,Karan,2,"Tight fit, I had to return for a bigger size."
+R0224,SN-6114,Pooja,5,Looks great with jeans.
+R0225,SN-6114,Anita,5,So light I forget I'm wearing them.
+R0226,TS-4527,Sneha,4,Stayed dry all through the Mumbai monsoon.
+R0227,TS-4527,Imran,5,Still like new after a year of use.
+R0228,TS-4527,Kavya,5,Great grip on wet rocks.
+R0229,TS-4527,Harpreet,4,Handled a very muddy trail race easily.
+R0230,GY-8107,Vikram,4,Walked through puddles and my socks stayed dry.
+R0231,GY-8107,Rahul,5,Feet stay cool even in the Chennai heat.
+R0232,GY-8107,Karan,4,Still like new after a year of use.
+R0233,GY-8107,Sanjay,4,So light I forget I'm wearing them.
+R0234,SN-6127,Rohit,2,"Runs small, order one size up."
+R0235,SN-6127,Sanjay,4,"Comfortable from the very first day, no break-in needed."
+R0236,SN-6127,Priya,4,Looks great with jeans.
+R0237,TS-4538,Pooja,4,"Very durable, lasted over 1,000 km."
+R0238,TS-4538,Imran,2,"Runs small, order one size up."
+R0239,TS-4538,Rahul,4,"Never slipped, even on muddy trails."
+R0240,TS-4549,Sneha,4,Walked through puddles and my socks stayed dry.
+R0241,TS-4549,Rahul,4,Handled a very muddy trail race easily.
+R0242,TS-4549,Amit,1,"Tight fit, I had to return for a bigger size."
+R0243,TS-4549,Joseph,5,"Very light, great for long days."
+R0244,SN-6138,Rahul,4,So light I forget I'm wearing them.
+R0245,SN-6138,Rohit,2,"Tight fit, I had to return for a bigger size."
+R0246,SN-6138,Meera,4,Lots of compliments on the style.
+R0247,GY-8120,Rohit,5,Very stable for squats and deadlifts.
+R0248,GY-8120,Amit,5,Walked through puddles and my socks stayed dry.
+R0249,GY-8120,Rahul,5,"Very light, great for long days."
+R0250,GY-8120,Neha,4,Great grip on wet rocks.
+R0251,WK-5164,Arjun,4,I wear them to the office every day.
+R0252,WK-5164,Imran,2,Sole wore out quickly.
+R0253,WK-5164,Imran,5,"Comfortable from the very first day, no break-in needed."
+R0254,GY-8127,Joseph,5,Feet stay cool even in the Chennai heat.
+R0255,GY-8127,Rohit,5,"Very light, great for long days."
+R0256,GY-8127,Neha,5,Still like new after a year of use.
+R0257,HK-3422,Arjun,4,Still like new after a year of use.
+R0258,HK-3422,Kavya,5,"Very light, great for long days."
+R0259,HK-3422,Amit,5,"Never slipped, even on muddy trails."
+R0260,TS-4562,Amit,4,"Very breathable, no sweaty feet."
+R0261,TS-4562,Fatima,5,Handled a very muddy trail race easily.
+R0262,TS-4562,Arjun,4,"Never slipped, even on muddy trails."
+R0263,RN-2451,Amit,4,So light I forget I'm wearing them.
+R0264,RN-2451,Pooja,4,"Lots of cushioning, perfect for long runs."
+R0265,RN-2451,Lakshmi,4,Super comfortable for long walks.
+R0266,SN-6156,Fatima,5,"Very light, great for long days."
+R0267,SN-6156,Amit,5,"Very durable, lasted over 1,000 km."
+R0268,SN-6156,Pooja,1,"Runs small, order one size up."
+R0269,RN-2462,Joseph,5,The reflective strips are really bright at night.
+R0270,RN-2462,Vikram,4,"Super soft cushioning, my knees feel better."
+R0271,RN-2462,Divya,4,Feet stay cool even in the Chennai heat.
+R0272,HK-3429,Kavya,4,"Very durable, lasted over 1,000 km."
+R0273,HK-3429,Anita,4,Stayed dry all through the Mumbai monsoon.
+R0274,HK-3429,Neha,5,Feet stay cool even in the Chennai heat.
+R0275,HK-3429,Amit,5,"Comfortable from the very first day, no break-in needed."
+R0276,HK-3442,Imran,4,Stayed dry all through the Mumbai monsoon.
+R0277,HK-3442,Priya,5,Still like new after a year of use.
+R0278,HK-3442,Amit,5,Super comfortable for long walks.
+R0279,HK-3442,Joseph,4,"Very light, great for long days."
+R0280,RN-2488,Fatima,5,"Lots of cushioning, perfect for long runs."
+R0281,RN-2488,Sanjay,5,Cars see me easily on my night runs.
+R0282,RN-2488,Sanjay,1,The sole came off after two months.
+R0283,TS-4586,Fatima,5,"Very breathable, no sweaty feet."
+R0284,TS-4586,Rahul,4,Walked through puddles and my socks stayed dry.
+R0285,TS-4586,Vikram,4,Nothing else grips this well in deep mud.
+R0286,TS-4586,Fatima,4,"Very durable, lasted over 1,000 km."
+R0287,SN-6187,Anita,5,So light I forget I'm wearing them.
+R0288,SN-6187,Divya,4,Lots of compliments on the style.
+R0289,SN-6187,Meera,1,"Runs small, order one size up."
+R0290,SD-1232,Lakshmi,4,Super comfortable for long walks.
+R0291,SD-1232,Rahul,4,Cheap and does the job.
+R0292,SD-1232,Priya,1,Straps rub and hurt my feet.
+R0293,WK-5178,Rohit,1,The sole came off after two months.
+R0294,WK-5178,Imran,4,"Roomy toe box, perfect for wide feet."
+R0295,WK-5178,Karan,4,"Lots of cushioning, perfect for long runs."
+R0296,WK-5185,Imran,5,"Roomy toe box, perfect for wide feet."
+R0297,WK-5185,Kavya,4,"Super soft cushioning, my knees feel better."
+R0298,WK-5185,Meera,1,Sole wore out quickly.
+R0299,SD-1239,Kavya,2,Straps rub and hurt my feet.
+R0300,SD-1239,Vikram,5,Stayed dry all through the Mumbai monsoon.
+R0301,SD-1239,Divya,5,"Lots of cushioning, perfect for long runs."
+R0302,SD-1239,Kavya,4,Quick to dry after the river crossing.
+R0303,HK-3456,Meera,4,Still like new after a year of use.
+R0304,HK-3456,Arjun,5,"Comfortable from the very first day, no break-in needed."
+R0305,HK-3456,Imran,4,Walked through puddles and my socks stayed dry.
+R0306,HK-3456,Fatima,4,Feet stay cool even in the Chennai heat.
+R0307,WK-5198,Rahul,4,"Super soft cushioning, my knees feel better."
+R0308,WK-5198,Rahul,5,Walked through puddles and my socks stayed dry.
+R0309,WK-5198,Rohit,5,"Comfortable from the very first day, no break-in needed."
+R0310,WK-5198,Imran,5,I wear them to the office every day.
+R0311,TS-4606,Pooja,5,"Very durable, lasted over 1,000 km."
+R0312,TS-4606,Amit,4,Handled a very muddy trail race easily.
+R0313,TS-4606,Rahul,4,"Super soft cushioning, my knees feel better."
+R0314,SN-6220,Joseph,4,"Very light, great for long days."
+R0315,SN-6220,Divya,4,Lots of compliments on the style.
+R0316,SN-6220,Harpreet,2,"Runs small, order one size up."
+R0317,SN-6233,Sneha,1,"Runs small, order one size up."
+R0318,SN-6233,Meera,5,Super comfortable for long walks.
+R0319,SN-6233,Harpreet,5,"Very light, great for long days."
+R0320,HK-3480,Neha,5,Walked through puddles and my socks stayed dry.
+R0321,HK-3480,Harpreet,4,"Very breathable, no sweaty feet."
+R0322,HK-3480,Neha,5,Great grip on wet rocks.
+R0323,HK-3480,Arjun,4,So light I forget I'm wearing them.
+R0324,TS-4613,Neha,5,"Very breathable, no sweaty feet."
+R0325,TS-4613,Vikram,5,"Very light, great for long days."
+R0326,TS-4613,Sanjay,5,Handled a very muddy trail race easily.
+R0327,RN-2495,Arjun,4,"Very light, great for long days."
+R0328,RN-2495,Fatima,5,"Very durable, lasted over 1,000 km."
+R0329,RN-2495,Harpreet,4,Super comfortable for long walks.
+R0330,SN-6251,Neha,4,So light I forget I'm wearing them.
+R0331,SN-6251,Sanjay,4,Still like new after a year of use.
+R0332,SN-6251,Sneha,4,"Comfortable from the very first day, no break-in needed."
+R0333,HK-3487,Joseph,5,"Never slipped, even on muddy trails."
+R0334,HK-3487,Neha,4,"Very durable, lasted over 1,000 km."
+R0335,HK-3487,Imran,4,Feet stay cool even in the Chennai heat.
+R0336,HK-3498,Joseph,5,"Very breathable, no sweaty feet."
+R0337,HK-3498,Rohit,5,Walked through puddles and my socks stayed dry.
+R0338,HK-3498,Karan,5,"Very durable, lasted over 1,000 km."
+R0339,HK-3498,Rohit,5,So light I forget I'm wearing them.
+R0340,WK-5229,Rohit,4,"Very breathable, no sweaty feet."
+R0341,WK-5229,Vikram,2,Sole wore out quickly.
+R0342,WK-5229,Lakshmi,5,"Comfortable from the very first day, no break-in needed."
+R0343,WK-5236,Amit,4,"Lots of cushioning, perfect for long runs."
+R0344,WK-5236,Kavya,5,"Very breathable, no sweaty feet."
+R0345,WK-5236,Divya,4,I wear them to the office every day.
+R0346,HK-3509,Karan,4,Stayed dry all through the Mumbai monsoon.
+R0347,HK-3509,Rahul,4,"Never slipped, even on muddy trails."
+R0348,HK-3509,Vikram,4,"Very light, great for long days."
+R0349,HK-3509,Sanjay,5,Still like new after a year of use.
+R0350,SN-6264,Imran,5,"Comfortable from the very first day, no break-in needed."
+R0351,SN-6264,Meera,4,Looks great with jeans.
+R0352,SN-6264,Rohit,4,Still like new after a year of use.
+R0353,HK-3516,Imran,4,So light I forget I'm wearing them.
+R0354,HK-3516,Arjun,5,Stayed dry all through the Mumbai monsoon.
+R0355,HK-3516,Rohit,5,"Very breathable, no sweaty feet."
+R0356,HK-3516,Rahul,4,Still like new after a year of use.
+R0357,TS-4637,Sneha,5,Great grip on wet rocks.
+R0358,TS-4637,Fatima,2,"Runs small, order one size up."
+R0359,TS-4637,Kavya,5,"Very light, great for long days."
+R0360,SD-1276,Arjun,4,"Comfortable from the very first day, no break-in needed."
+R0361,SD-1276,Priya,5,Good value for the price.
+R0362,SD-1276,Neha,2,The straps hurt after an hour of walking.
+R0363,TS-4648,Imran,5,Great grip on wet rocks.
+R0364,TS-4648,Neha,5,Handled a very muddy trail race easily.
+R0365,TS-4648,Karan,5,Stayed dry all through the Mumbai monsoon.
+R0366,TS-4648,Priya,4,"Very light, great for long days."
+R0367,TS-4661,Divya,5,"Lots of cushioning, perfect for long runs."
+R0368,TS-4661,Amit,2,"Tight fit, I had to return for a bigger size."
+R0369,TS-4661,Karan,5,Great grip on wet rocks.
+R0370,SD-1287,Karan,4,Walked through puddles and my socks stayed dry.
+R0371,SD-1287,Sneha,1,The straps hurt after an hour of walking.
+R0372,SD-1287,Imran,5,"Comfortable from the very first day, no break-in needed."
+R0373,SD-1287,Sneha,5,Good value for the price.
+R0374,SD-1294,Fatima,2,Straps rub and hurt my feet.
+R0375,SD-1294,Kavya,5,Quick to dry after the river crossing.
+R0376,SD-1294,Fatima,4,Good value for the price.
+R0377,GY-8134,Fatima,4,Feet stay cool even in the Chennai heat.
+R0378,GY-8134,Kavya,4,So light I forget I'm wearing them.
+R0379,GY-8134,Vikram,4,"Very durable, lasted over 1,000 km."
+R0380,GY-8145,Kavya,5,Feet stay cool even in the Chennai heat.
+R0381,GY-8145,Lakshmi,5,Still like new after a year of use.
+R0382,GY-8145,Rahul,5,Great grip on wet rocks.
+R0383,TS-4681,Lakshmi,5,Feet stay cool even in the Chennai heat.
+R0384,TS-4681,Anita,5,"Very durable, lasted over 1,000 km."
+R0385,TS-4681,Rahul,1,"Tight fit, I had to return for a bigger size."
+R0386,WK-5249,Sanjay,5,Finally a shoe that fits my wide feet.
+R0387,WK-5249,Arjun,4,Looks smart enough for the office.
+R0388,WK-5249,Sneha,5,"Very breathable, no sweaty feet."
+R0389,RN-2513,Joseph,5,"Very durable, lasted over 1,000 km."
+R0390,RN-2513,Pooja,4,Stayed dry all through the Mumbai monsoon.
+R0391,RN-2513,Fatima,2,Sole wore out quickly.
+R0392,RN-2513,Sneha,5,"Very light, great for long days."
